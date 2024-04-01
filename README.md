@@ -1,2 +1,3 @@
 # FirstDemo
-my first demo author : Tomal Paul Joy
+
+my first demo author : Tomal Joy
